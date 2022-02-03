@@ -1,0 +1,16 @@
+.start {
+  all: unset;
+  display: flex;
+  width: 100px;
+  margin: 5px;
+
+  justify-content: center;
+  background-color: grey;
+  color: wheat;
+  padding: 10px;
+}
+
+.button_container {
+  display: flex;
+  justify-content: center;
+}

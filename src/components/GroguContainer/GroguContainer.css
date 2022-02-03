@@ -1,0 +1,16 @@
+.grogu_board {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  background-color: blueviolet;
+  position: relative;
+}
+.class1 {
+  background-color: rgb(253, 104, 133);
+}
+
+.img_grogu {
+  position: absolute;
+  top: 28px;
+  right: 12px;
+}
